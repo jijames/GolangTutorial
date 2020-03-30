@@ -4,10 +4,6 @@ Golang tutorial following videos from [this playlist](https://www.youtube.com/pl
 
 Provided by [https://DFIR.Science](https://DFIR.Science). See the [license](LICENSE.md) for more details.
 
-### Release schedule
-
-* Every Thursday @ 20:00KST
-
 ### Required / Recommended Software
 
 * [Golang](https://golang.org/)
